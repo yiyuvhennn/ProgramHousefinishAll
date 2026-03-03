@@ -1,4 +1,4 @@
-🏠 Program House – 全端建案展示平台
+Program House – 全端建案展示平台
 
 一套具備 Production 部署能力的前後端分離 Web 應用。
 
@@ -8,7 +8,7 @@ https://program-housefinish-all.vercel.app
 🔗 Backend API
 https://programhousefinishdeploy.onrender.com
 
-📌 專案概述：
+專案概述：
 
    本專案為個人獨立開發之全端系統，目標是完整實作一個具備：
 
@@ -110,7 +110,7 @@ https://programhousefinishdeploy.onrender.com
 
    Monorepo 架構優化
 
-👨‍💻 作者
+作者:
 
 陳翊猷
 新手全端工程師 / 學生
